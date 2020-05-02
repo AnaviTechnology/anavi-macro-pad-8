@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name anavi-macro-pad-8)(type KiCad)(uri ${KIPRJMOD}/anavi-macro-pad-8.pretty)(options "")(descr ""))
+)
