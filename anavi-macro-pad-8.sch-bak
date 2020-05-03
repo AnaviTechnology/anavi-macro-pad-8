@@ -184,7 +184,7 @@ U 1 1 5EAD8C12
 P 3200 2550
 F 0 "Y1" H 3200 2818 50  0000 C CNN
 F 1 "Crystal" H 3200 2727 50  0000 C CNN
-F 2 "Crystals:Crystal_HC49-SD_SMD" H 3200 2550 50  0001 C CNN
+F 2 "anavi-macro-pad-8:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering" H 3200 2550 50  0001 C CNN
 F 3 "~" H 3200 2550 50  0001 C CNN
 	1    3200 2550
 	0    1    1    0   
