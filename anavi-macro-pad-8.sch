@@ -395,8 +395,6 @@ F 3 "" H 2300 4650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	2300 4900 2300 4650
-Wire Wire Line
 	4950 3900 5650 3900
 $Comp
 L MCU_Microchip_ATmega:ATmega32U4-AU U1
@@ -966,8 +964,6 @@ F 3 "" H 8900 2050 50  0001 C CNN
 	1    8900 2050
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	8900 2200 8900 2050
 Text Label 8300 2400 0    50   ~ 0
 BACKLIT
 Wire Wire Line
@@ -1097,4 +1093,8 @@ Wire Wire Line
 Connection ~ 3750 1200
 Wire Wire Line
 	3750 1200 3750 800 
+Wire Wire Line
+	2300 4900 2300 4650
+Wire Wire Line
+	8900 2200 8900 2050
 $EndSCHEMATC
