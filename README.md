@@ -10,7 +10,9 @@ ANAVI Macro Pad 8 has been designed with [the cross platform and open source ele
 
 [ANAVI Macro Pad 8 was successfully crowdfunded at Crowd Supply on 8 October 2020](https://www.crowdsupply.com/anavi-technology/anavi-macro-pad-8).
 
-For more details about ANAVI Macro Pad 8 please visit https://anavi.technology/
+ANAVI Macro Pad 8 has been certified by [the Open Source Hardware Association under OSHWA UID BG000072 on July 13, 2020](https://certification.oshwa.org/bg000072.html).
+
+For more details please visit https://anavi.technology/
 
 # License
 
