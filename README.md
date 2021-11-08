@@ -6,7 +6,7 @@
 
 ANAVI Macro Pad 8 is an open source, custom-programmable, mini 8-key keyboard/keypad. Each key can be reprogrammed to activate a macro or even a dedicated shortcut - all without any coding experience! Powered by the advanced, but easy-to-use [Quantum Mechanical Keyboard (QMK) open source firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/anavi/macropad8).
 
-ANAVI Macro Pad 8 has been designed with [the cross platform and open source electronics design automation suite KiCad](https://kicad-pcb.org/). [The acrylic enclosure](https://github.com/AnaviTechnology/anavi-cases/tree/master/anavi-macro-pad-8-case) has been designed with [OpenSCAD](https://www.openscad.org/).
+ANAVI Macro Pad 8 has been designed with [the cross platform and open source electronics design automation suite KiCad](https://kicad.org/). [The acrylic enclosure](https://github.com/AnaviTechnology/anavi-cases/tree/master/anavi-macro-pad-8-case) has been designed with [OpenSCAD](https://www.openscad.org/).
 
 [ANAVI Macro Pad 8 was successfully crowdfunded at Crowd Supply on 8 October 2020](https://www.crowdsupply.com/anavi-technology/anavi-macro-pad-8).
 
