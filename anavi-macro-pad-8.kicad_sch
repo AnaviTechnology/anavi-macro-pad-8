@@ -2178,7 +2178,7 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005eaf8e5f)
     (property "Reference" "R13" (id 0) (at 162.56 86.36 90))
-    (property "Value" "4.7K" (id 1) (at 167.64 86.36 90))
+    (property "Value" "24R" (id 1) (at 167.64 86.36 90))
     (property "Footprint" "Resistors_SMD:R_0603" (id 2) (at 167.64 87.122 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2193,7 +2193,7 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005eaf97ba)
     (property "Reference" "R14" (id 0) (at 162.56 93.98 90))
-    (property "Value" "4.7K" (id 1) (at 167.64 93.98 90))
+    (property "Value" "24R" (id 1) (at 167.64 93.98 90))
     (property "Footprint" "Resistors_SMD:R_0603" (id 2) (at 167.64 89.662 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3162,10 +3162,10 @@
       (reference "R12") (unit 1) (value "68R") (footprint "Resistors_SMD:R_0603")
     )
     (path "/00000000-0000-0000-0000-00005eaf8e5f"
-      (reference "R13") (unit 1) (value "4.7K") (footprint "Resistors_SMD:R_0603")
+      (reference "R13") (unit 1) (value "24R") (footprint "Resistors_SMD:R_0603")
     )
     (path "/00000000-0000-0000-0000-00005eaf97ba"
-      (reference "R14") (unit 1) (value "4.7K") (footprint "Resistors_SMD:R_0603")
+      (reference "R14") (unit 1) (value "24R") (footprint "Resistors_SMD:R_0603")
     )
     (path "/00000000-0000-0000-0000-00005ead1f41"
       (reference "SW1") (unit 1) (value "SW_DIP_x01") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate")
